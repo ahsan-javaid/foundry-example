@@ -1,0 +1,3 @@
+cast call 0x5FbDB2315678afecb367f032d93F642f64180aa3 "getCount()(int)"
+cast send 0x5FbDB2315678afecb367f032d93F642f64180aa3 "incrementCounter()" --private-key <pkey>
+cast call 0x5FbDB2315678afecb367f032d93F642f64180aa3 "getCount()(int)"

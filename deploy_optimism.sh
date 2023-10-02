@@ -1,0 +1,1 @@
+forge script script/Counter.s.sol:CounterScript --rpc-url https://optimism-goerli.publicnode.com --private-key <pkkey> --broadcast

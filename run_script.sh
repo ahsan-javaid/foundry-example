@@ -1,0 +1,1 @@
+forge script script/Counter.s.sol:CounterScript --fork-url http://localhost:8545 --private-key <pkey> --broadcast
